@@ -1,4 +1,5 @@
 # RollABall
+This game has been developed in Unity 3D. It's adapted from the infamous Roll A Ball tutorial provided by Unity.
 I have made some changes to the original roll-a-ball tutorial in Unity.   Improved the UI of the game by creating Start Menu, Pause Menu &amp; End Menu Scenes. The game can be paused at any instance without losing progress. I have also made changes to the interface by displaying the score &amp; the number of cubes remaining on a whiteboard. Improved the overall functionality of the game by expanding the play area, creating more walls, changing the position of cubes. Applied textures to the ground, cubes, walls, and the ball by creating materials. Added sound to the game. I added background music to the menu screens and the game screen. I also added a smoke effect SFX when the ball collects a cube.  Used a Legacy shader called particles ( Additive) to create a smoke effect( using the Particle System), that is triggered every time the ball collects a quantum cube.
 
 # Credits
